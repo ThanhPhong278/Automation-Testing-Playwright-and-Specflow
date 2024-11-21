@@ -25,12 +25,11 @@ I am a **Junior Tester** with over **2 years of experience** as a **Manual Teste
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
-![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Phong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanhPhong278&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhPhong278&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add your LinkedIn profile here)*
-- 📧 Email: phongvo@example.com *(Replace with your email)*
+*- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)* *(Add your LinkedIn profile here)*
+- 📧 Email: phongvo2728@gmail.com *(Replace with your email)*
 
-## 🌟 Fun Fact
-> "Testing is not just finding bugs, it's building confidence in the software."
+

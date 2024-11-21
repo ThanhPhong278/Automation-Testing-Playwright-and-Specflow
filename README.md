@@ -29,7 +29,7 @@ I am a **Junior Tester** with over **2 years of experience** as a **Manual Teste
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhPhong278&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
-*- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)* *(Add your LinkedIn profile here)*
-- 📧 Email: phongvo2728@gmail.com *(Replace with your email)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/phong-v%C3%B5-25b4b61aa)
+- 📧 Email: phongvo2728@gmail.com
 
 
